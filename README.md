@@ -1,5 +1,5 @@
 ## Hi there, I'm Kenneth Dsouza 👋
-![Leetcode Stats](https://leetcard.jacoblin.cool/kennetdsouza11)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kennethdsouza11)
 
 <!--
 **Kennethdsouza11/Kennethdsouza11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
